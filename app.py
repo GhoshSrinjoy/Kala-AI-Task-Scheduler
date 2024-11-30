@@ -412,7 +412,7 @@ import numpy as np
 # Configure page settings
 st.set_page_config(
     layout="wide",
-    page_title="Calendar Assistant",
+    page_title="Rain about the day",
     page_icon="📅",
     initial_sidebar_state="expanded"
 )
