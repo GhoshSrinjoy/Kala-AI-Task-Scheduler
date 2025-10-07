@@ -1,28 +1,46 @@
-# Smart Calendar with AI Assistant 🗓️
+*“My calendar just recommended a meeting with myself. Finally, someone gets me.”*  
 
-A modern, AI-powered calendar application built with Streamlit that combines traditional calendar functionality with semantic search and natural language interactions.
+# 🧠 Kala AI Task Scheduler  
 
-## Features 🌟
+A modern, **AI-powered calendar** that doesn’t just store your schedule , it *understands* it.  
+Built with **Streamlit**, **ChromaDB**, and **LLaMA**, it blends event management with semantic search and natural language interaction.  
 
-### Calendar Management
-- Multiple calendar views (Month, Week, Day, List)
-- Easy event creation and deletion
-- Color-coded events
-- Drag-and-drop interface
-- Interactive event management panel
+🔗 **Repo:** https://github.com/GhoshSrinjoy/Kala-AI-Task-Scheduler  
 
-### AI Integration
-- Semantic search through events using vector embeddings
-- Natural language chat interface for calendar queries
-- Context-aware responses using LLaMA language model
-- Real-time event recommendations and insights
+---
 
-### Technical Features
-- Vector database (ChromaDB) for semantic storage
-- LLaMA integration for natural language understanding
-- Real-time updates and caching
-- Responsive UI with Streamlit
-- Persistent chat history
+## Overview  
+
+Kala AI is what happens when a traditional calendar meets an AI assistant.  
+You can create, manage, and query events , but instead of typing filters and dates, you can just *ask*:  
+
+> “What meetings do I have next week with the design team?”  
+
+It knows. It finds. It tells you.  
+
+---
+
+## ✨ Features  
+
+### 🗓️ Calendar Management  
+- Month, Week, Day, and List views  
+- Add or delete events easily  
+- Drag-and-drop interface  
+- Color-coded event types  
+- Interactive management panel  
+
+### 🤖 AI Integration  
+- Semantic event search using vector embeddings  
+- Natural language chat interface  
+- Context-aware insights powered by LLaMA  
+- Real-time event recommendations  
+
+### ⚙️ Technical Features  
+- **ChromaDB** for semantic storage  
+- **LLaMA via Ollama** for NLU  
+- Real-time updates and caching  
+- Responsive **Streamlit** UI  
+- Persistent chat history  
 
 ## Installation 🚀
 
