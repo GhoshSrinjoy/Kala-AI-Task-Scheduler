@@ -5,7 +5,6 @@
 A modern, **AI-powered calendar** that doesn’t just store your schedule , it *understands* it.  
 Built with **Streamlit**, **ChromaDB**, and **LLaMA**, it blends event management with semantic search and natural language interaction.  
 
-🔗 **Repo:** https://github.com/GhoshSrinjoy/Kala-AI-Task-Scheduler  
 
 ---
 
